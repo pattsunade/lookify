@@ -1,0 +1,15 @@
+.fondo{
+    background: #1db954;
+}
+.alinear{
+    text-align: center;
+    margin-top: 50px;
+}
+.alinear a {
+    text-decoration: none;
+    color: aliceblue;
+}
+header a {
+    margin-left: 10px;
+}
+

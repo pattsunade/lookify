@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+    background: #1db954;
+}
+.buscador {
+    display: inline-block;
+    margin-left: 65%;
+    
+}
+.barra{
+    border: none;
+    border-radius: 3px;
+}
+.buttom {
+    border: none;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 3px;
+    
+    
+}
+header{
+    padding: 1%;
+}
+
+.link {
+    background-color: transparent;
+    border: none;
+    text-decoration: underline rgb(255, 255, 255);
+    color: rgb(250, 251, 251);
+}

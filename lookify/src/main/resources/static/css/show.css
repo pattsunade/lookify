@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.fondo {
+    background-color: #1db954;
+}
+header {
+    text-align: right;
+    margin: 1%;
+}
+/* .container {
+    text-align: center;
+} */
+#cuadro{
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin: 10% 45%;
+}
+.cuadrito {
+    background-color: transparent;
+    border: none;
+    text-decoration: underline rgb(0, 128, 192);
+    color: rgb(0, 128, 192);
+}
